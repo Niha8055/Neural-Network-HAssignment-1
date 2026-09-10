@@ -4,8 +4,8 @@
 **Department:** Computer Science & Cybersecurity  
 **Course:** CS5720 Neural Network and Deep Learning  
 **Semester:** Fall 2026  
-**Student Name:** YOUR NAME  
-**Student ID:** YOUR STUDENT ID  
+**Student Name:** NIHARIKA MANNEPALLI  
+**Student ID:** 700#775394 
 
 ## Assignment Overview
 
@@ -408,7 +408,3 @@ Before submitting Brightspace, open your GitHub repository in the browser and ma
 - `.gitignore`
 - `loss_comparison.png`
 - `adam_vs_sgd_accuracy.png`
-
-Also check that your **name and student ID** are filled in in the README.
-
-The assignment specifically requires the source code to be pushed to GitHub, the work to be explained in the README, student information to be included, comments in the code, and a 2-3 minute demonstration video. 
